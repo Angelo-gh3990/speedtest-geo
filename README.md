@@ -1,6 +1,6 @@
 ### Setup test
 * [ ]  Download for Ubuntu: wget https://install.speedtest.net/app/cli/ookla-speedtest-1.1.1-linux-x86_64.tgz
-* [ ]  extract: tar -xfz ookla-speedtest-1.1.1-linux-x86_64.tgz
+* [ ]  extract: tar -xvzf ookla-speedtest-1.1.1-linux-x86_64.tgz
 
 ### Run test
 * [ ]  ./speedtest -h (for commands)
