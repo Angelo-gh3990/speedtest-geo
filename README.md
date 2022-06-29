@@ -7,10 +7,11 @@
 
 ### Testing locations
 * [ ]  Amsterdam $ID: 13218
-* [ ]  Las Vegas $ID: 13529
+* [ ]  Las Vegas $ID: 13529 (@1Gbps) - use 16622 for 10Gbps test
 * [ ]  Singapore $ID: 26654
 * [ ]  New York $ID: 21016
 * [ ]  Sydney $ID: 6355
+* [ ]  Optional China (GuiZhou - Guiyang) $ID: 16398
 
 ### Run the test
 For every location run: ./speedtest -s $ID
